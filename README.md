@@ -2,7 +2,7 @@
 
 ![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)
 
-(Be sure to click on it for the infinite scrolling version.)
+
 
 <!--
 **jivthesh/jivthesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
