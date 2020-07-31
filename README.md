@@ -12,7 +12,7 @@ I am Jivthesh, an exuberant tech enthusiast, programmer. Even though I am not an
 
 <!--
 **jivthesh/jivthesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
+ jf
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
