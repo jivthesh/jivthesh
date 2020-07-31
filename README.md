@@ -2,7 +2,9 @@
 
 ![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)
 
-### Hi there Visitors 👋
+### Hi this is Jivthesh 👋
+
+I am Jivthesh, an exuberant tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's
 
 
 <!--
