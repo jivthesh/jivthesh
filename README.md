@@ -25,7 +25,7 @@ I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about 
 
 ----
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>  
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="250" /></a>  
 
 
 ### Languages and Tools
