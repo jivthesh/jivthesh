@@ -6,7 +6,7 @@
 
 I am Jivthesh, an exuberant tech enthusiast, programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's
 
-<img align="right" width="400" height="400" src="https://github.com/jivthesh/Images-and-gif/blob/master/antnO%20desk%20by%20antnO%20on%20Dribbble.mp4">
+<img align="right" width="400" height="400" src="https://github.com/jivthesh/Images-and-gif/blob/master/dribbble_avatar-01_2x.jpg">
 
 
 ## Programming Languages
