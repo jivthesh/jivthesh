@@ -4,7 +4,8 @@
 
 
 
-  
+
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>  
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
@@ -23,7 +24,6 @@ I am Jivthesh, an exuberant tech enthusiast, programmer. Even though I am not an
 
 
 ----
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
 
 ## Programming Languages
