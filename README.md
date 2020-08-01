@@ -4,8 +4,7 @@
 
 
 
-
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>  
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
@@ -24,6 +23,8 @@ I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about 
 
 
 ----
+
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>  
 
 
 ### Languages and Tools
@@ -49,14 +50,4 @@ I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about 
 <!--
 **jivthesh/jivthesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  jf
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
