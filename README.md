@@ -2,11 +2,27 @@
 
 ![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)
 
-### Hi this is Jivthesh 👋
 
+
+  
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  
+:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+  
 I am Jivthesh, an exuberant tech enthusiast, programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's
 
 
+- 🔭 I’m an undergraduate.
+- 🌱 I’m currently learning Data Science | Full Stack Web development | App Development 
+- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- ⚡ Quote: There is always time. You just have to find it.
+- 📫 How to reach me:
+
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/jivthesh)  |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/jivthesh//) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](jivtheshm@gmail.com)
+|---|---|---|---|---|---|
+
+----
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
 
