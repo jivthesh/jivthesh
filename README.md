@@ -17,7 +17,7 @@ I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about 
 - 🌱 I’m currently learning Data Science | Full Stack Web development | App Development 
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Quote: There is always time. You just have to find it.
+- ⚡ Quote: "Life is short, time is fast, no replay, no rewind, so enjoy every moment as it comes".
 - 📫 How to reach me:
 [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/jivthesh//)   [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](jivtheshm@gmail.com)
 
