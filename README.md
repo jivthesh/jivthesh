@@ -25,7 +25,7 @@ I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about 
 
 ----
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="250" /></a>  
+<img src="https://github.com/jivthesh/jivthesh/blob/master/image/coffee.png" align="right" height="250" />
 
 
 ### Languages and Tools
@@ -50,5 +50,5 @@ I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about 
 
 <!--
 **jivthesh/jivthesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- jf
+ 
 
