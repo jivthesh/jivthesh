@@ -10,7 +10,7 @@
 
 ----
 
-<img src="https://github.com/jivthesh/jivthesh/blob/master/image/python.png" align="right" height="200" />
+<img src="https://github.com/jivthesh/jivthesh/blob/master/image/python.png" align="right" height="250" />
 
 I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's. 
 
@@ -26,7 +26,7 @@ I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about 
 
 ----
 
-<img src="https://github.com/jivthesh/jivthesh/blob/master/image/coffee.png" align="right" height="280" />
+<img src="https://github.com/jivthesh/jivthesh/blob/master/image/coffee.png" align="right" height="300" />
 
 
 ### Languages and Tools
