@@ -26,7 +26,7 @@ I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about 
 
 ----
 
-<img src="https://github.com/jivthesh/jivthesh/blob/master/image/coffee.png" align="right" height="300" />
+<img src="https://github.com/jivthesh/jivthesh/blob/master/image/coffee.png" align="right" height="250" />
 
 
 ### Languages and Tools
