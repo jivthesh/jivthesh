@@ -7,7 +7,7 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
-
+----
 <img src="https://github.com/jivthesh/jivthesh/blob/master/image/python.png" align="right" height="200" />
 
 I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's. 
@@ -47,6 +47,8 @@ I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
  
+----
+⭐️ From [jivthesh](https://github.com/jivthesh)
 
 <!--
 **jivthesh/jivthesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
