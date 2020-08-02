@@ -8,7 +8,7 @@
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
 
-<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" />
+<img src="https://github.com/jivthesh/jivthesh/blob/master/image/python.png" align="right" height="200" />
 
 I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's. 
 
