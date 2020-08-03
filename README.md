@@ -1,4 +1,7 @@
 
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
+
+
 ### 👋 Hello World !  
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
@@ -47,7 +50,6 @@ I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about 
 
 
 -----
-<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
 ![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)
 
