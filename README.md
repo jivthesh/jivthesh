@@ -4,7 +4,7 @@
 
 
 
-### 👋 Hello World !  <img src="<iframe src="https://giphy.com/embed/LW5vBvAb48Oe9OoEKT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-hello-LW5vBvAb48Oe9OoEKT">via GIPHY</a></p>" width="24px">
+### 👋 Hello World !  <img src="https://media.giphy.com/media/LW5vBvAb48Oe9OoEKT/giphy.gif" width="24px">
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
 ----
@@ -18,9 +18,7 @@ I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about 
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: "Life is short, time is fast, no replay, no rewind, so enjoy every moment as it comes".
-- 📫 How to reach me:
-
-| [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Linkedin.svg" width="32">](https://www.linkedin.com/in/jivthesh/) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/github.svg" alt="Github logo" width="34">](https://github.com/jivthesh) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/jivtheshm) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/stack_overflow.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13712259/jivthesh-m) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@jivtheshm) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Gmail.svg" alt="Gmail logo" height="32">](mailto:jivtheshm@gmail.com)
+- 📫 How to reach me:| [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Linkedin.svg" width="32">](https://www.linkedin.com/in/jivthesh/) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/github.svg" alt="Github logo" width="34">](https://github.com/jivthesh) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/jivtheshm) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/stack_overflow.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13712259/jivthesh-m) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@jivtheshm) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Gmail.svg" alt="Gmail logo" height="32">](mailto:jivtheshm@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 ----
