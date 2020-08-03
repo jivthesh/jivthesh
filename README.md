@@ -4,7 +4,7 @@
 
 
 
-### 👋 Hello World !  <img src="https://media.giphy.com/media/LW5vBvAb48Oe9OoEKT/giphy.gif" width="24px">
+### 👋 Hello World !  <img src="https://media.giphy.com/media/LW5vBvAb48Oe9OoEKT/giphy.gif" width="40px">
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
 ----
