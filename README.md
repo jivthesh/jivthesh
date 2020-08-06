@@ -53,7 +53,7 @@ I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about 
 ⭐️ From [jivthesh](https://github.com/jivthesh/jivthesh)
 
 
-nsllsenle
+nsllse
 <!--
 **jivthesh/jivthesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
