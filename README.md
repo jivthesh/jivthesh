@@ -1,4 +1,4 @@
-kff
+
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
 -----
@@ -8,7 +8,7 @@ kff
 ----
 <img src="https://github.com/jivthesh/jivthesh/blob/master/image/python.png" align="right" height="250" />
 
-I am Jivthesh, an exuberant tech enthusiast, programmer who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's. 
+I am **Jivthesh**, an exuberant tech enthusiast, programmer who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's. 
 
 
 - 🔭 I’m an undergraduate.
