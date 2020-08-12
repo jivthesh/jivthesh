@@ -49,7 +49,8 @@ I am **Jivthesh**, an exuberant tech enthusiast, programmer who is passionate ab
 ⭐️ From [jivthesh](https://github.com/jivthesh/jivthesh)
 
 
-![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)
+
 <!--
 **jivthesh/jivthesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)
  
