@@ -17,6 +17,7 @@ I am **Jivthesh**, an exuberant tech enthusiast, programmer who is passionate ab
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: "Life is short, time is fast, no replay, no rewind, so enjoy every moment as it comes".
 - 📫 How to reach me:
+
 | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Linkedin.svg" width="32">](https://www.linkedin.com/in/jivthesh/) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/github.svg" alt="Github logo" width="34">](https://github.com/jivthesh) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/jivtheshm) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/stack_overflow.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13712259/jivthesh-m) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@jivtheshm) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Gmail.svg" alt="Gmail logo" height="32">](mailto:jivtheshm@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
