@@ -24,9 +24,9 @@ I am **Jivthesh**, an exuberant tech enthusiast, programmer who is passionate ab
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/JoykishanSharma">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
+  <a href="https://gitstats.me/Jivthesh">
+    <img width="500" height="auto" align="right" alt="Jivthesh github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=Jivthesh&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
