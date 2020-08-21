@@ -16,6 +16,13 @@ I am **Jivthesh**, an exuberant tech enthusiast, programmer who is passionate ab
 
 
 ----
+
+## Reach out to me 
+
+| [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Linkedin.svg" width="32">](https://www.linkedin.com/in/jivthesh/) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/github.svg" alt="Github logo" width="34">](https://github.com/jivthesh) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/jivtheshm) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/stack_overflow.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13712259/jivthesh-m) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@jivtheshm) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Gmail.svg" alt="Gmail logo" height="32">](mailto:jivtheshm@gmail.com) 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+----
 <p align="right">
 <img src="https://github.com/jivthesh/jivthesh/blob/master/image/coffee.png" align="right" height="250" />
  </p>
@@ -59,12 +66,6 @@ I am **Jivthesh**, an exuberant tech enthusiast, programmer who is passionate ab
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
  
-----
-## Reach out to me 
-
-| [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Linkedin.svg" width="32">](https://www.linkedin.com/in/jivthesh/) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/github.svg" alt="Github logo" width="34">](https://github.com/jivthesh) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/jivtheshm) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/stack_overflow.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13712259/jivthesh-m) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@jivtheshm) | [<img src="https://github.com/jivthesh/jivthesh/blob/master/image/Gmail.svg" alt="Gmail logo" height="32">](mailto:jivtheshm@gmail.com) 
-|:---:|:---:|:---:|:---:|:---:|:---:|
-
 ----
 ⭐️ From [jivthesh](https://github.com/jivthesh/jivthesh)
 
