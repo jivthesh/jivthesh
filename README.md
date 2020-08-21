@@ -16,11 +16,12 @@ I am **Jivthesh**, an exuberant tech enthusiast, programmer who is passionate ab
 
 
 ----
-
+<p align="right">
 <img src="https://github.com/jivthesh/jivthesh/blob/master/image/coffee.png" align="right" height="250" />
+ </p>
 ## My skills
 
-<p align="center">
+<p align="left">
   <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
 </p>
 
