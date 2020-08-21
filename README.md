@@ -19,6 +19,7 @@ I am **Jivthesh**, an exuberant tech enthusiast, programmer who is passionate ab
 <p align="right">
 <img src="https://github.com/jivthesh/jivthesh/blob/master/image/coffee.png" align="right" height="250" />
  </p>
+ 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/Jivthesh">
